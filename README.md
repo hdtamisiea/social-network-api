@@ -31,7 +31,7 @@ User will type npm start into the terminal to start the server.
 
 ## Usage
 
-![Landing Page View](/assets/images/page.png)
+![Landing Page View](/assets/images/page.PNG)
 
 View walkthrough video here:
 https://drive.google.com/file/d/1MPb8DYDm_w9tKJ4jbM-wAGc82Cl87b1j/view
