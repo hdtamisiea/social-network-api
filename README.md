@@ -9,7 +9,7 @@
  Mongoose
  MongoDB
  Moment.js
- 
+
 ## Description
 
 My challenge was to build an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. 
@@ -31,13 +31,13 @@ User will type npm start into the terminal to start the server.
 
 ## Usage
 
-![Landing Page View](/assets/images/page.png)
+![Landing Page View](../assets/images/page.png)
 
 View walkthrough video here:
 https://drive.google.com/file/d/1MPb8DYDm_w9tKJ4jbM-wAGc82Cl87b1j/view
 
 Deployed site can be viewed at: 
-[https://hdtamisiea.github.io/social-network-api]
+[https://github.com/hdtamisiea/social-network-api]
 
 Provide any instructions and/or examples for use:
 From Insomnia, you can get all users/thoughts, edit users/thoughts, add users/thoughts and delete users/thoughts.  You can also add and delete friends and reactions to thoughts. 
