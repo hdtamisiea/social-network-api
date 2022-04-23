@@ -27,7 +27,7 @@ My challenge was to build an API for a social network web application where user
 
 ## Installation
 
-User will type npm start into the terminal to start the server.
+User will type npm install into the terminal, and then node server into the terminal to start the server.
 
 ## Usage
 
