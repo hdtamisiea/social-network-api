@@ -4,6 +4,7 @@
 
 ## Technologies
 
+ Javascript
  NodeJS
  Express.js
  Mongoose
