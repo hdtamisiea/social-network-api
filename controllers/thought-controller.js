@@ -17,7 +17,8 @@ const thoughtController = {
         Thought.findOne({ _id: params.id })
             .populate({
                 path: 'user',
-                select: '-__v'
+                select: '-__v',
+                strictPopulate: false
             })
            .select('-__v')
            .sort({ _id: -1 })
